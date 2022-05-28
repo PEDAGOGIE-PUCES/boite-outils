@@ -4,6 +4,6 @@ La boîte à outils est un espace de recensement de données liées aux territoi
 
 
  <A>Le référentiel 0 : entiereté du référentiel </A>
-Le référentiel 1 : les bloc de compétence </A>
+<A>Le référentiel 1 : les bloc de compétence </A>
 Le référentiel 2 : tableau des compétences et validation dans l'année </A>
 
